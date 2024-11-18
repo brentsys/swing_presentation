@@ -56,6 +56,8 @@ Pour garantir une gestion efficace et sécurisée des transactions effectuées v
   - Responsabilisation accrue des utilisateurs
   - Contrôle plus précis des limites de transaction par client
 
+La stratégie de compensation globale offre une meilleur expérience utilisateur pour le client. Elle nécessite cependant que l'etablissement dispose d'un système d'information bancaire autorisant des requêtes externes sécurisées.
+
 Choisissez la stratégie qui correspond le mieux à vos besoins et à ceux de vos clients. Nous vous accompagnerons dans la mise en place de la solution la plus adaptée à votre établissement.
 
 ## Offre SWING pour les Entreprises
@@ -110,5 +112,7 @@ Ces fonctionnalités avancées font de SWING une solution idéale pour les entre
 ## Prêt à franchir le pas ?
 
 Contactez-nous dès aujourd'hui pour une démonstration personnalisée et découvrez comment Swing peut devenir un atout majeur pour votre établissement financier.
+
+N'hésitez pas à visiter notre présentation en ligne sur [Le concept de la banque digitale](https://my.visme.co/view/z41470o9-banque-digitale-concept 'Banque Digitale Concept')
 
 Ne laissez pas passer cette opportunité de moderniser vos services bancaires et de satisfaire pleinement vos clients. Avec Swing, propulsez votre établissement vers l'avenir de la banque digitale et des transferts d'argent multicanaux au Cameroun.
